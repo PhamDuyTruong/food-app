@@ -9,7 +9,7 @@ const EmptyCart= () => {
      <div className='emptyCart'>
       <img src='https://merchlist.co/assets/emptycart.png' alt='' />
       <button onClick={() => history.push('/')}>
-        <i className='fas fa-long-arrow-alt-left'></i> Shop Now
+        <i className='fas fa-long-arrow-alt-left'></i> Order Now
       </button>
     </div>
   )

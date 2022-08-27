@@ -10,7 +10,7 @@ const Banner = () => {
     <div className='header-content'>
       <Logo />
       <div className='content-main'>
-        <h1>Delicious food for your cravings</h1>
+        <h1>Delicious food for your favor</h1>
         <p>We made fresh and healthy meals with different recipes</p>
         <button>
           View Menu
